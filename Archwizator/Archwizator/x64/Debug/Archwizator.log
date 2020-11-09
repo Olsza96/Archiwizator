@@ -1,0 +1,10 @@
+﻿  fBinaryFile.c
+  fCatalogs.c
+  fFinal.c
+  fPliki.c
+c:\users\toshiba\desktop\politechnika\pk2\gr61-repo\projekt\archwizator\archwizator\fpliki.c(85): warning C4477: „printf”: ciąg formatu „%X” wymaga argumentu typu „unsigned int”, ale argument 1 ze zmienną liczbą argumentów ma typ „char *”
+c:\users\toshiba\desktop\politechnika\pk2\gr61-repo\projekt\archwizator\archwizator\fpliki.c(85): warning C4313: „printf”: „%X” w ciągu formatu powoduje konflikt z argumentem 1 typu „char *”
+  fUtility.c
+  main.c
+  Generowanie kodu...
+  Archwizator.vcxproj -> C:\Users\toshiba\Desktop\Politechnika\PK2\gr61-repo\Projekt\Archwizator\x64\Debug\Archwizator.exe
